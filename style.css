@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.container {
+	max-width: 1152px;
+	margin: 0 auto;
+}
+
+.header_container {
+
+	height: 70px;
+	background-color: #6B6B6B;
+}
+
+.head_wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 0 auto;
+	height: 100%;
+}
+
+
+
+.menu ul {
+	display: flex;
+	padding: 0px 20px;
+	justify-content: center;
+	align-items: center;
+	gap: 40px;
+	list-style: none;
+}
+
+
+.menu li a {
+    text-decoration: none;
+    color: #FFF;
+}
+
