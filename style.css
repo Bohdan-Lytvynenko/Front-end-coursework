@@ -43,3 +43,54 @@ body {
     color: #FFF;
 }
 
+/* main block */
+
+.main1 {
+
+	background: #EBEBEB;
+}
+
+.main1_information1 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 67.1px 0px;
+}
+.main1_text1 {
+margin-right: 128px;
+}
+
+.main1_text1 h1 {
+	color: #333;
+   margin-bottom: 11px;
+
+}
+
+.main1_text1 p {
+		width: 576px;
+		color: #333333;
+		margin-bottom: 30px;
+	
+}
+
+.main1_text1 input {
+	width: 357px;
+    height: 50px;
+    padding-left: 25px;
+}
+
+.main1_image1 {
+
+	display: flex;
+	flex-direction: column;
+	
+}
+
+.main1_image1 p {
+
+	text-align: center;
+	width: 320px;
+	color: rgba(0, 0, 0, 0.50);
+	font-size: 13px;
+}
+
