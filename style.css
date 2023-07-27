@@ -94,3 +94,18 @@ margin-right: 128px;
 	font-size: 13px;
 }
 
+.brands {
+	height: 152px;
+    background: #D3D3D3;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.brands_block img{
+	padding-right: 63px;
+}
+
+.brands_block img:last-child{
+	padding-right: 0;
+}
