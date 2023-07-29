@@ -234,4 +234,42 @@ margin-right: 128px;
 	margin-bottom: 11px;
 }
 
+.main5 h2 {
+	color: #333;
+	font-size: 32px;
+	font-weight: 400;
+	padding: 99px 0 41px 0;
+}
+
+.main5_information {
+	display: flex;
+	width: 1152px;
+}
+.margin_padding,
+.add_elements,
+.responsive_design,
+.states {
+	width: 282px;
+}
+
+.margin_padding p,
+.add_elements p,
+.responsive_design p,
+.states p{
+	margin: 13px 20px 7px 20px;
+}
+
+.margin_padding img,
+.add_elements img,
+.responsive_design img,
+.states img {
+	
+	border: 1px solid black;
+}
+
+.explanation {
+	color: #333;
+	font-size: 18px;
+	}
+
 
