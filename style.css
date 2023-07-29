@@ -109,3 +109,38 @@ margin-right: 128px;
 .brands_block img:last-child{
 	padding-right: 0;
 }
+
+
+.main3 {
+	background-color: #FFFFFF;
+}
+
+.main3_information {
+	display: flex;
+	padding-top: 50px;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.main3_text1 p {
+	width: 509px;
+}
+
+.main3_text1 h2 {
+	margin-bottom: 14px;
+}
+
+.main3_text1 {
+	margin-right: 140px;
+}
+
+.main3_text2 h2 {
+	margin-top: 68.75px;
+	margin-bottom: 14px;
+}
+
+.main3_text2 img {
+	margin-bottom: -50px;
+}
+
+
