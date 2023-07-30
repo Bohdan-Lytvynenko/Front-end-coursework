@@ -102,11 +102,11 @@ margin-right: 128px;
 	justify-content: space-between;
 }
 
-.brands_block img{
+.brands_block a{
 	padding-right: 63px;
 }
 
-.brands_block img:last-child{
+.brands_block a:last-child{
 	padding-right: 0;
 }
 
@@ -271,5 +271,16 @@ margin-right: 128px;
 	color: #333;
 	font-size: 18px;
 	}
+.copyright {
+background-color: #111;
+height: 50px;
+}
+.copyright p {
+	color: #777;
+	
+	padding-top: 15px;
+}
+
+
 
 
